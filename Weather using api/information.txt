@@ -1,0 +1,8 @@
+My Api Key =dfbae1567d0c47f08fb110925250303
+
+Api call: http://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${location}&aqi=yes
+
+Location provide yourself at your choice as input.
+
+
+I aslo use it 7 days forecast Api after another project it simple to use.
